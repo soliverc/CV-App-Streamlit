@@ -66,11 +66,11 @@ with col2:
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experience & Qualifications")
 st.write(
     """
 - ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
+- ✔️ Strong hands on experience and knowledge in Python, SQL and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
@@ -147,13 +147,48 @@ to replace manually generated reports.
 
 # --- JOB 3
 st.write('\n')
-st.write("**Data Analyst | Chegg**")
-st.write("04/2015 - 01/2018")
+st.write("**Data Scientist | Allegiant**")
+st.write("May 2019 - Apr 2021")
 st.write(
     """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
+- Data Scientist for AnPost Bank’s Moneyback Programme. Developed machine learning models (LTV,
+Churn, Next Purchase Prediction), analytics, and visualizations of operational and customer metrics
+using various tools – Python, SQL, R, Rest APIs.
+- Automated KYC / Identity Verification / Fraudulent Account detection for bank onboarding via Rest
+APIs and custom rule-based classification models.
+- Built predictive models (ScikitLearn, Keras) to solve complex business / retail questions – sales
+forecasting, customer lookalike models, entity resolution.
+- Developed customer segmentation models based on a variety of large and disparate datasets,
+transaction patterns and demographics to measure and improve loyalty and acquisition (e.g. RFM / CLV
+modelling)
+- **Achievements**:
+    - Developed Process Automation App with GUI (Python). Monthly manual transaction process was
+reduced from several hours to roughly 10 minutes. Human error was eliminated.
+    - Eliminated overtime hours on long-term client job through automation of large C-suite report.
+    - Developed Python tool to automatically sanitize, correct & enhance customer data prior to loading to
+SQL database. Substantially reduced manual workload on 70%wwwwwwww+ of customer records.
+"""
+)
+
+# --- JOB 4
+st.write('\n')
+st.write("**Marketing Officer | irish Guide Dogs for the Blind**")
+st.write("Feb 2013 - Feb 2015")
+st.write(
+    """
+- Planned and Managed nationwide marketing campaigns (Direct Mail, Phone, Online, TV), conducting
+regular pre and post-campaign data analysis to ensure KPIs are met or exceeded, and identify
+opportunities for improved performance.
+- Forecast and budget monthly and multi-year revenue for the CEO and Board of Directors.
+- Maximised income via precise marketing lists, A/B testing, and ensuring donors receive the highest
+level of care. Minimised costs by increasing process efficiency and ensuring expenses are within/below
+budget.
+- Managed Teams of volunteers through marketing campaign logistics.
+- Project managed successful delivery of new CRM marketing system – working with Database Admin in
+creation of campaign data analysis/extraction processes, troubleshooting, testing and tracking (JIRA)
+- **Achievements**:
+    - Reduced the cost of a popular biannual marketing campaign by 70%, resulting in a 400% R.O.I.
+    - Created a new, sustainable, low-cost annual income stream via IRS Charitable Donation Scheme
 """
 )
 
